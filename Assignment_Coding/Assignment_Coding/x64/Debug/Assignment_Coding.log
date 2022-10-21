@@ -1,9 +1,0 @@
-﻿  Assembling coding.asm...
-coding.asm(1): error A2008: syntax error : .
-coding.asm(2): error A2008: syntax error : .
-coding.asm(440): error A2024: invalid operand size for instruction
-coding.asm(483): error A2008: syntax error : main
-coding.asm(484): error A2088: END directive required at end of file
-coding.asm(108): error A2006: undefined symbol : @data
-coding.asm(114): error A2006: undefined symbol : _title
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\coding.obj" /W3 /errorReport:prompt  /Tacoding.asm" exited with code 1.
